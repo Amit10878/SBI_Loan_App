@@ -12,6 +12,7 @@ public class App
         int j=20;
         int k=30;
         int l=40;
+        int m=50;
         System.out.println( "Hello World!" );
     }
 }
