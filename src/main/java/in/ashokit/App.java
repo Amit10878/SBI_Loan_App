@@ -10,7 +10,6 @@ public class App
     {
         int i=10;
         int j=20;
-        int k=30;
         System.out.println( "Hello World!" );
     }
 }
