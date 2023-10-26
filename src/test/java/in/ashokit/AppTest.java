@@ -15,10 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-<<<<<<< HEAD
-        int x=20;
-=======
->>>>>>> parent of 0be658d (java files modified)
+
         assertTrue( true );
     }
 }
